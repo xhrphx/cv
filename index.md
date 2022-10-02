@@ -5,13 +5,13 @@ email:
   url: mailto:xhrphx@hotmail.com
   text: xhrphx@hotmail.com
 phone:
-  text: 39436394
+  39436394
 homepage:
   url: https://xhrphx.github.io/cv/
   text: https://xhrphx.github.io/cv/
 ---
 
-# Haoran **Xu**
+# Haoran Xu
 
 <!--
 include contact information from the front matter
@@ -22,6 +22,8 @@ Supported arguments:
             -->
 
 {% include cv-contact.html %}
+
+
 
 ## Education
 
@@ -41,23 +43,34 @@ Anhui, China
 
 - B.S. in Physics
 
+
+
 ---
 
 ## Employment
 
 ### **The Chinese University of Hong Kong** `2020 – now`
 
-- Postdoctoral Researcher
+- Postdoctoral Fellow
+
+
 
 ---
 
-## Experience and research
+## Research and Professional Experience:
 
-### **Active solid** 
-### **Bacterial motility in complex confinements** 
-### **Pattern formation in living systems** 
-### **Continuum model** 
-### **Agent-based model** 
+Group of Synthetic Biology and Quantitative Biology, Hefei National Laboratory for Physical Sciences at Microscale, University of Science and Technology of China `2014 – 2015`
+- Student
+- Advisor: Fan Jin
+
+Department of Physics, The Chinese University of Hong Kong `2015 – 2020`. 
+- Graduate Research Assistant
+- Advisor: Yilin Wu
+
+Department of Physics, The Chinese University of Hong Kong `2020 – 2022`. 
+- Postdoc Fellow
+- Advisor: Yilin Wu
+
 
 
 
@@ -65,16 +78,24 @@ Anhui, China
 
 ### [**[7] Hierarchical transition from ordered protrusions to swarming branches promote active matter invasion**](https://arxiv.org/pdf/2208.12424.pdf)
 
-**Haoran Xu**, Mehrana R Nejad, Julia Mary Yeomans, Yilin Wu.<br> 
+**Haoran Xu**, Mehrana R Nejad, Julia Mary Yeomans, Yilin Wu.<br>
 _arXiv (2022)._ <br>
 [[PDF](https://arxiv.org/pdf/2208.12424.pdf)]
 [[www](https://arxiv.org/abs/2208.12424)]
 
-### [**[6] Active bulging promotes biofilm formation in a bacterial swarm**]({{ page.homepage.url }}/assets/2022.08.25.500950.full.pdf)
+### [**[6] Active bulging promotes biofilm formation in a bacterial swarm**](https://www.biorxiv.org/content/10.1101/2022.08.25.500950v1.full.pdf)
 
-Siyu Liu, Ye Li, **Haoran Xu**, Daniel B. Kearns, Yilin Wu.<br> 
+Siyu Liu, Ye Li, **Haoran Xu**, Daniel B. Kearns, Yilin Wu.<br>
 _bioXiv (2022)._<br>
-[[PDF](http://penrose.ink/media/Penrose_SIGGRAPH2020.pdf)]
+[[PDF](https://www.biorxiv.org/content/10.1101/2022.08.25.500950v1.full.pdf)]
+[[www](https://www.biorxiv.org/content/10.1101/2022.08.25.500950v1)]
+
+### [**[5] Self-organized canals enable long range directed material transport in bacterial communities**](https://www.biorxiv.org/content/10.1101/2022.05.19.492681v1.full.pdf)
+
+Ye Li, Shiqi Liu, Yingdan Zhang, Zi Jing Seng, **Haoran Xu**, Liang Yang, Yilin Wu .<br>
+_arXiv (2022)._ <br>
+[[PDF]((https://www.biorxiv.org/content/10.1101/2022.05.19.492681v1.full.pdf))]
+[[www](https://elifesciences.org/articles/79780)]
 
 ### [**[5] Autonomous waves and global motion modes in elastic active solids**](https://arxiv.org/pdf/2208.09664.pdf)
 
@@ -83,32 +104,30 @@ _arXiv (2022)._ <br>
 [[PDF](https://arxiv.org/pdf/2208.09664.pdf)]
 [[www](https://arxiv.org/abs/2208.09664)]
 
-### [**[4] Roadmap on emerging concepts in the physical biology of bacterial biofilms: from surface sensing to community formation**](https://iopscience.iop.org/article/10.1088/1478-3975/abdc0e/pdf)
+
+### [**[3] Roadmap on emerging concepts in the physical biology of bacterial biofilms: from surface sensing to community formation**](https://iopscience.iop.org/article/10.1088/1478-3975/abdc0e/pdf)
 
 Wong, Gerard CL, et al.<br>
 _Physical Biology (2021)._<br>
 [[PDF](https://iopscience.iop.org/article/10.1088/1478-3975/abdc0e/pdf)]
 [[www](https://iopscience.iop.org/article/10.1088/1478-3975/abdc0e)]
 
-### [**[3] Self-organized collective motion in bacterial communities**](https://iopscience.iop.org/article/10.1088/1478-3975/abdc0e/ampdf#page=66)
+### [**[2] Self-organized collective motion in bacterial communities**](https://iopscience.iop.org/article/10.1088/1478-3975/abdc0e/ampdf#page=66)
 
 Yilin Wu & **Haoran Xu**.<br>
 _in Roadmap on emerging concepts in the physical biology of bacterial biofilms: from surface sensing to community formation. Physical Biology (2021)._<br>
 [[PDF](https://iopscience.iop.org/article/10.1088/1478-3975/abdc0e/ampdf#page=66)]
 
-### [**[2] Self-organization of swimmers drives long-range fluid transport in bacterial colonies**](https://arxiv.org/pdf/1904.00888.pdf)
+### [**[1] Self-organization of swimmers drives long-range fluid transport in bacterial colonies**](https://arxiv.org/pdf/1904.00888.pdf)
 
 **Haoran Xu**, Justas Dauparas, Debasish Das, Eric Lauga, Yilin Wu.<br>
 _Nature Communications._<br>
 [[PDF](https://arxiv.org/pdf/1904.00888.pdf)]
 [[www](https://arxiv.org/abs/1904.00888)]
 
-### [**[1] Self-organization of swimmers drives long-range fluid transport in bacterial colonies**](https://www.nature.com/articles/s41467-019-09818-2.pdf)
 
-**Haoran Xu**, Justas Dauparas, Debasish Das, Eric Lauga, Yilin Wu.<br>
-_Nature Communications._<br>
-[[PDF](https://www.nature.com/articles/s41467-019-09818-2.pdf)]
-[[www](https://www.nature.com/articles/s41467-019-09818-2)]
+
+
 ---
 
 ## Honors & Awards
@@ -116,6 +135,8 @@ _Nature Communications._<br>
 CN Yang Scholarship `CUHK, 2020` <br>
 Global Young Scientists Summit Singapore `National Research Foundation Singapore, 2020` <br>
 First prize in Contemporary Undergraduate Mathematical Contest in Modeling `China Society for Industrial and Applied Mathematics, 2013` <br>
+
+
 
 ---
 
