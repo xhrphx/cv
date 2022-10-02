@@ -2,11 +2,13 @@
 layout: cv
 title: Wode "Nimo" Ni
 email:
-  url: mailto:woden@cs.cmu.edu
-  text: woden@cs.cmu.edu
+  url: mailto:xhrphx@hotmail.com
+  text: xhrphx@hotmail.com
+phone:
+  text: 39436394
 homepage:
-  url: https://github.com/xhrphx/cv/tree/master
-  text: cs.cmu.edu/~woden
+  url: https://xhrphx.github.io/cv/
+  text: https://xhrphx.github.io/cv/
 ---
 
 # Haoran **Xu**
