@@ -1,0 +1,6 @@
+@article{xu2022geometrical,
+  title={Geometrical control of interface patterning underlies active matter invasion},
+  author={Xu, Haoran and Nejad, Mehrana R and Yeomans, Julia M and Wu, Yilin},
+  journal={arXiv preprint arXiv:2208.12424},
+  year={2022}
+}

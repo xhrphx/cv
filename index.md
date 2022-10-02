@@ -39,16 +39,20 @@ Anhui, China
 
 - B.S. in Physics
 
+## Employment
+
+### **The Chinese University of Hong Kong** `2020 – now`
+
+- Postdoctoral Researcher
+
 ## Publications
 
-### [**Hierarchical transition from ordered protrusions to swarming branches promote active matter invasion**]({{ page.homepage.url }}/assets/uist-21-recode.pdf)
+### [**[7] Hierarchical transition from ordered protrusions to swarming branches promote active matter invasion**]({{ page.homepage.url }}/assets/2208.12424.pdf)
 
 **Haoran Xu**, Mehrana R Nejad, Julia Mary Yeomans, Yilin Wu.<br> 
 _arXiv (2022)._ <br>
-[[PDF]({{ page.homepage.url }}/assets/uist-21-recode.pdf)]
-[[BibTeX]({{ page.homepage.url }}/assets/uist-21-recode.txt)]
-[[video preview](https://youtu.be/fMdHK9UrgQ4)]
-[[talk](https://youtu.be/_GQ8E7EMMws)]
+[[PDF]({{ page.homepage.url }}/assets/2208.12424.pdf)]
+[[BibTeX]({{ page.homepage.url }}/assets/Xu, Haoran, et al. "Geometrical control of interface patterning underlies active matter invasion.txt)]
 
 
 ### [**Penrose: From Mathematical Notation to Beautiful Diagrams**](http://penrose.ink/media/Penrose_SIGGRAPH2020.pdf)
