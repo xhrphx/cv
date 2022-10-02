@@ -5,7 +5,7 @@ email:
   url: mailto:woden@cs.cmu.edu
   text: woden@cs.cmu.edu
 homepage:
-  url: http://cs.cmu.edu/~woden
+  url: https://github.com/xhrphx/cv/tree/master
   text: cs.cmu.edu/~woden
 ---
 
@@ -15,46 +15,36 @@ homepage:
 include contact information from the front matter
 Supported arguments:
     - homepage: url, text
-    - phone
-    - email
--->
+        - phone
+        - email
+            -->
 
 {% include cv-contact.html %}
 
 ## Education
 
-### **Carnegie Mellon University** `2018.9 -`
+### **The Chinese University of Hong Kong** `2015 – 2020`
 
 ```
-Pittsburgh, PA
+Hong Kong, China
 ```
 
-- Ph.D. in Software Engineering
-- Co-advised by [Ken Koedinger](http://pact.cs.cmu.edu/koedinger.html) and [Josh Sunshine](http://www.cs.cmu.edu/~jssunshi/)
+- Ph.D. in Physics
 
-### **Columbia University** `2016.9 - 2018.5`
-
-```
-New York, NY
-```
-
-- B.S. in Computer Science, _Magna Cum Laude_
-- Vision, Graphics track
-
-### **Dickinson College** `2013.9 - 2016.5`
+### **University of Science and Technology of China** `2011 - 2015`
 
 ```
-Carlisle, PA
+Anhui, China
 ```
 
-- B.S. in Computer Science, _Summa Cum Laude_
-- Computer Science Departmental Honors
+- B.S. in Physics
 
 ## Publications
 
-### [**reCode: A Lightweight Find-and-Replace Interaction in the IDE for Transforming Code by Example**]({{ page.homepage.url }}/assets/uist-21-recode.pdf)
-**Wode Ni**, Joshua Sunshine, Vu Le, Sumit Gulwani, and Titus Barik.<br> 
-_In Proceedings of the 34th ACM Symposium on User Interface Software and Technology (UIST'21)._ <br>
+### [**Hierarchical transition from ordered protrusions to swarming branches promote active matter invasion**]({{ page.homepage.url }}/assets/uist-21-recode.pdf)
+
+**Haoran Xu**, Mehrana R Nejad, Julia Mary Yeomans, Yilin Wu.<br> 
+_arXiv (2022)._ <br>
 [[PDF]({{ page.homepage.url }}/assets/uist-21-recode.pdf)]
 [[BibTeX]({{ page.homepage.url }}/assets/uist-21-recode.txt)]
 [[video preview](https://youtu.be/fMdHK9UrgQ4)]
