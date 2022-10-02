@@ -52,7 +52,7 @@ Anhui, China
 **Haoran Xu**, Mehrana R Nejad, Julia Mary Yeomans, Yilin Wu.<br> 
 _arXiv (2022)._ <br>
 [[PDF]({{ page.homepage.url }}/assets/2208.12424.pdf)]
-[[BibTeX]({{ page.homepage.url }}/assets/Xu, Haoran, et al. "Geometrical control of interface patterning underlies active matter invasion.txt)]
+[[BibTeX]({{ page.homepage.url }}/assets/Geometrical control of interface patterning underlies active matter invasion.txt)]
 
 
 ### [**Penrose: From Mathematical Notation to Beautiful Diagrams**](http://penrose.ink/media/Penrose_SIGGRAPH2020.pdf)
