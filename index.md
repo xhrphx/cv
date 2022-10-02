@@ -111,7 +111,7 @@ _Physical Biology (2021)._<br>
 
 **Haoran Xu**, Justas Dauparas, Debasish Das, Eric Lauga, Yilin Wu.<br>
 _Nature Communications._<br>
-**[[PDF](https://arxiv.org/pdf/1904.00888.pdf)]**; **[[Link](https://arxiv.org/abs/1904.00888)]**; NSFC News **[[Link](http://www.nsfc.gov.cn/csc/20340/20343/37797/index.html)]**; Nature Research Microbiology Community Blog **[[Link](https://naturemicrobiologycommunity.nature.com/users/255172-yilin-wu/posts/48080-bacteria-self-organize-to-drive-flows)}**
+**[[PDF](https://arxiv.org/pdf/1904.00888.pdf)]**; **[[Link](https://arxiv.org/abs/1904.00888)]**; NSFC News **[[Link](http://www.nsfc.gov.cn/csc/20340/20343/37797/index.html)]**; Nature Research Microbiology Community Blog **[[Link](https://naturemicrobiologycommunity.nature.com/users/255172-yilin-wu/posts/48080-bacteria-self-organize-to-drive-flows)]**
 
 
 
@@ -130,8 +130,8 @@ First prize in Contemporary Undergraduate Mathematical Contest in Modeling `Chin
 
 ## Teaching
 
-Teaching Assistant, **Physics Laboratory II ** `CUHK, 2017 – 2019` <br>
-Teaching Assistant, **Physics Laboratory I ** `CUHK, 2015 – 2017` <br>
+Teaching Assistant, **Physics Laboratory II** `CUHK, 2017 – 2019` <br>
+Teaching Assistant, **Physics Laboratory I** `CUHK, 2015 – 2017` <br>
 
 
 <!-- ### Footer
