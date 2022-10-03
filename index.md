@@ -98,7 +98,7 @@ _arXiv (2022)._ <br>
 ### [**[3] Self-organized canals enable long range directed material transport in bacterial communities**](https://www.biorxiv.org/content/10.1101/2022.05.19.492681v1.full.pdf)
 
 Ye Li, Shiqi Liu, Yingdan Zhang, Zi Jing Seng, **Haoran Xu**, Liang Yang, Yilin Wu .<br>
-_arXiv (2022)._ <br>
+_Elife (2022)._ <br>
 **[[PDF]((https://www.biorxiv.org/content/10.1101/2022.05.19.492681v1.full.pdf))]**; **[[Link](https://elifesciences.org/articles/79780)]**
 
 ### [**[2] Roadmap on emerging concepts in the physical biology of bacterial biofilms: from surface sensing to community formation**](https://iopscience.iop.org/article/10.1088/1478-3975/abdc0e/pdf)
