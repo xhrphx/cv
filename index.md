@@ -115,6 +115,19 @@ _Nature Communications._<br>
 
 
 
+---
+
+## Invited talks
+
+### **Seminar in Hong Kong University of Science and Technology** `2020.10`
+
+Collective Motion of Active Matter in Confinement<br>
+
+### **Physical Society of Hong Kong Conference** `2018.10`
+
+Self-organization of swimmers drives long-range fluid transport in bacterial colonies<br>
+
+
 
 ---
 
@@ -130,9 +143,8 @@ First prize in Contemporary Undergraduate Mathematical Contest in Modeling `Chin
 
 ## Teaching
 
-Teaching Assistant, **Physics Laboratory II** `CUHK, 2017 – 2019` <br>
-Teaching Assistant, **Physics Laboratory I** `CUHK, 2015 – 2017` <br>
-
+Teaching Assistant, Physics Laboratory II `CUHK, 2017 – 2019` <br>
+Teaching Assistant, Physics Laboratory I `CUHK, 2015 – 2017` <br>
 
 <!-- ### Footer
 
