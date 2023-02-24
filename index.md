@@ -27,7 +27,7 @@ Supported arguments:
 
 ## Education
 
-### **The Chinese University of Hong Kong** `2015 – 2020`
+#### **The Chinese University of Hong Kong** `2015 – 2020`
 
 ```
 Hong Kong, China
@@ -35,14 +35,13 @@ Hong Kong, China
 
 - Ph.D. in Physics
 
-### **University of Science and Technology of China** `2011 - 2015`
+#### **University of Science and Technology of China** `2011 - 2015`
 
 ```
 Anhui, China
 ```
 
 - B.S. in Physics
-
 
 
 ---
@@ -52,6 +51,16 @@ Anhui, China
 ### **The Chinese University of Hong Kong** `2020 – now`
 
 - Postdoctoral Fellow
+
+
+
+
+---
+
+## Research interest
+
+Self-organization in bacterial dense suspension; Collective behaviors of living active matter in viscoelastic fluid and solid; Bacterial motility in complex confinements; Pattern formation in living systems; Agent-based and continuum modeling (PDE).
+
 
 
 
@@ -77,10 +86,17 @@ Department of Physics, The Chinese University of Hong Kong `2020 – 2022`.
 
 ## Publications
 
-### [**[6] Hierarchical transition from ordered protrusions to swarming branches promote active matter invasion**](https://arxiv.org/pdf/2208.12424.pdf)
+Revise and resubmit
+
+### **[7] Self-enhanced mobility drives multiscale ordering and pattern formation in living matter**
+
+**Haoran Xu**, Yilin Wu.<br>
+_Under review in Nature (2023)._ <br>
+
+### [**[6] Geometrical control of interface patterning underlies active matter invasion**](https://arxiv.org/pdf/2208.12424.pdf)
 
 **Haoran Xu**, Mehrana R Nejad, Julia Mary Yeomans, Yilin Wu.<br>
-_arXiv (2022)._ <br>
+_Revise and resubmit in PNAS; arXiv (2022)._ <br>
 **[[PDF](https://arxiv.org/pdf/2208.12424.pdf)]**; **[[Link](https://arxiv.org/abs/2208.12424)]**
 
 ### [**[5] Active bulging promotes biofilm formation in a bacterial swarm**](https://www.biorxiv.org/content/10.1101/2022.08.25.500950v1.full.pdf)
@@ -92,7 +108,7 @@ _bioXiv (2022)._<br>
 ### [**[4] Autonomous waves and global motion modes in elastic active solids**](https://arxiv.org/pdf/2208.09664.pdf)
 
 **Haoran Xu**, Yulu Huang, Rui Zhang, Yilin Wu .<br>
-_arXiv (2022)._ <br>
+_Nature Physics (2022)._ <br>
 **[[PDF](https://arxiv.org/pdf/2208.09664.pdf)]**; **[[Link](https://arxiv.org/abs/2208.09664)]**
 
 ### [**[3] Self-organized canals enable long range directed material transport in bacterial communities**](https://www.biorxiv.org/content/10.1101/2022.05.19.492681v1.full.pdf)
