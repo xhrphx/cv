@@ -28,6 +28,9 @@ Supported arguments:
 ## Education and academic appointments
 
 ### **The Chinese University of Hong Kong** `2021 – present`
+```
+Hong Kong, China
+```
 
 - Postdoctoral Fellow
 
@@ -52,7 +55,7 @@ Anhui, China
 
 ## Research interests
 
-Biophysics; Soft matter physics; Living active matter; Microbiology
+**Biophysics; Soft matter physics; Living active matter; Microbiology**<br> 
 
 **Experimental Aspects**
 
@@ -61,7 +64,7 @@ Biophysics; Soft matter physics; Living active matter; Microbiology
 – Autonomous motion in living active solids and active nematics
 
 – Mechanical/chemical signaling and synchronization in living systems
-
+<br>
 **Numerical Simulations**
 
 – Fluid dynamics with partial differential equations 
@@ -76,38 +79,38 @@ Biophysics; Soft matter physics; Living active matter; Microbiology
 ### [**[7] Self-enhanced mobility enables vortex pattern formation in living matter**](https://www.nature.com/articles/s41586-024-07114-8)
 
 **Haoran Xu**, Yilin Wu.<br>
-_Nature (2024)._ <br> **[[PDF](https://arxiv.org/abs/2403.09068)]**;
+_Nature (2024)._ **[[PDF](https://arxiv.org/abs/2403.09068)]**;<br> 
 
 ### [**[6] Geometrical control of interface patterning underlies active matter invasion**](https://www.pnas.org/doi/full/10.1073/pnas.2219708120)
 
 **Haoran Xu**, Mehrana R Nejad, Julia Mary Yeomans, Yilin Wu.<br>
-_PNAS (2023)._ <br> **[[PDF](https://arxiv.org/pdf/2208.12424.pdf)]**;
+_PNAS (2023)._  **[[PDF](https://arxiv.org/pdf/2208.12424.pdf)]**;<br>
 
 ### [**[5] Autonomous waves and global motion modes in elastic active solids**](https://www.nature.com/articles/s41567-022-01836-0)
 
 **Haoran Xu**, Yulu Huang, Rui Zhang, Yilin Wu .<br>
-_Nature Physics (2023)._ <br> **[[PDF](https://arxiv.org/pdf/2208.09664.pdf)]**;
+_Nature Physics (2023)._  **[[PDF](https://arxiv.org/pdf/2208.09664.pdf)]**;<br>
 
 ### [**[4] Self-organization of swimmers drives long-range fluid transport in bacterial colonies**](https://www.nature.com/articles/s41467-019-09818-2)
 
 **Haoran Xu**, Justas Dauparas, Debasish Das, Eric Lauga, Yilin Wu.<br>
-_Nature Communications._<br>
-**[[PDF](https://arxiv.org/pdf/1904.00888.pdf)]**; NSFC News **[[Link](http://www.nsfc.gov.cn/csc/20340/20343/37797/index.html)]**; Nature Research Microbiology Community Blog **[[Link](https://naturemicrobiologycommunity.nature.com/users/255172-yilin-wu/posts/48080-bacteria-self-organize-to-drive-flows)]**
+_Nature Communications (2019)._
+**[[PDF](https://arxiv.org/pdf/1904.00888.pdf)]**; NSFC News **[[Link](http://www.nsfc.gov.cn/csc/20340/20343/37797/index.html)]**; Nature Research Microbiology Community Blog **[[Link](https://naturemicrobiologycommunity.nature.com/users/255172-yilin-wu/posts/48080-bacteria-self-organize-to-drive-flows)]**<br>
 
 ### [**[3] Active bulging promotes biofilm formation in a bacterial swarm**](https://www.biorxiv.org/content/10.1101/2022.08.25.500950v1.full.pdf)
 
 Siyu Liu, Ye Li, **Haoran Xu**, Daniel B. Kearns, Yilin Wu.<br>
-_bioXiv (2022)._<br> **[[PDF](https://www.biorxiv.org/content/10.1101/2022.08.25.500950v1.full.pdf)]**; 
+_bioXiv (2022)._ **[[PDF](https://www.biorxiv.org/content/10.1101/2022.08.25.500950v1.full.pdf)]**;<br>
 
 ### [**[2] Self-organized canals enable long range directed material transport in bacterial communities**](https://elifesciences.org/articles/79780)
 
 Ye Li, Shiqi Liu, Yingdan Zhang, Zi Jing Seng, **Haoran Xu**, Liang Yang, Yilin Wu .<br>
-_Elife (2022)._ <br> **[[PDF]((https://www.biorxiv.org/content/10.1101/2022.05.19.492681v1.full.pdf))]**; 
+_Elife (2022)._  **[[PDF]((https://www.biorxiv.org/content/10.1101/2022.05.19.492681v1.full.pdf))]**; <br>
 
 ### [**[1] Roadmap on emerging concepts in the physical biology of bacterial biofilms: from surface sensing to community formation**](https://iopscience.iop.org/article/10.1088/1478-3975/abdc0e)
 
 Wong, Gerard CL, et al.<br>
-_Physical Biology (2021)._<br> **[[PDF](https://iopscience.iop.org/article/10.1088/1478-3975/abdc0e/pdf)]**; 
+_Physical Biology (2021)._ **[[PDF](https://iopscience.iop.org/article/10.1088/1478-3975/abdc0e/pdf)]**;<br>
 
 
 
