@@ -55,12 +55,17 @@ Anhui, China
 Biophysics; Soft matter physics; Living active matter; Microbiology
 
 **Experimental Aspects**
+
 – Self-organization and pattern formation in living active matter
+
 – Autonomous motion in living active solids and active nematics
+
 – Mechanical/chemical signaling and synchronization in living systems
 
 **Numerical Simulations**
+
 – Fluid dynamics with partial differential equations 
+
 – Active matter motion with Langevin equations
 
 
@@ -68,64 +73,121 @@ Biophysics; Soft matter physics; Living active matter; Microbiology
 
 ## Publications
 
-### [**[7] Self-enhanced mobility drives multiscale ordering and pattern formation in living matter**](https://arxiv.org/pdf/2208.12424.pdf)
+### [**[7] Self-enhanced mobility enables vortex pattern formation in living matter**](https://www.nature.com/articles/s41586-024-07114-8)
 
 **Haoran Xu**, Yilin Wu.<br>
-_Nature (2024)._ <br>
-**[[PDF](https://arxiv.org/pdf/2208.09664.pdf)]**; **[[Link](https://arxiv.org/abs/2208.09664)]**
+_Nature (2024)._ <br> **[[PDF](https://arxiv.org/abs/2403.09068)]**;
 
-### [**[6] Geometrical control of interface patterning underlies active matter invasion**](https://arxiv.org/pdf/2208.12424.pdf)
+### [**[6] Geometrical control of interface patterning underlies active matter invasion**](https://www.pnas.org/doi/full/10.1073/pnas.2219708120)
 
 **Haoran Xu**, Mehrana R Nejad, Julia Mary Yeomans, Yilin Wu.<br>
-_PNAS._ <br>
-**[[PDF](https://arxiv.org/pdf/2208.12424.pdf)]**; **[[Link](https://arxiv.org/abs/2208.12424)]**
+_PNAS (2023)._ <br> **[[PDF](https://arxiv.org/pdf/2208.12424.pdf)]**;
 
-### [**[5] Autonomous waves and global motion modes in elastic active solids**](https://arxiv.org/pdf/2208.09664.pdf)
+### [**[5] Autonomous waves and global motion modes in elastic active solids**](https://www.nature.com/articles/s41567-022-01836-0)
 
 **Haoran Xu**, Yulu Huang, Rui Zhang, Yilin Wu .<br>
-_Nature Physics (2023)._ <br>
-**[[PDF](https://arxiv.org/pdf/2208.09664.pdf)]**; **[[Link](https://arxiv.org/abs/2208.09664)]**
+_Nature Physics (2023)._ <br> **[[PDF](https://arxiv.org/pdf/2208.09664.pdf)]**;
 
-### [**[4] Self-organization of swimmers drives long-range fluid transport in bacterial colonies**](https://arxiv.org/pdf/1904.00888.pdf)
+### [**[4] Self-organization of swimmers drives long-range fluid transport in bacterial colonies**](https://www.nature.com/articles/s41467-019-09818-2)
 
 **Haoran Xu**, Justas Dauparas, Debasish Das, Eric Lauga, Yilin Wu.<br>
 _Nature Communications._<br>
-**[[PDF](https://arxiv.org/pdf/1904.00888.pdf)]**; **[[Link](https://arxiv.org/abs/1904.00888)]**; NSFC News **[[Link](http://www.nsfc.gov.cn/csc/20340/20343/37797/index.html)]**; Nature Research Microbiology Community Blog **[[Link](https://naturemicrobiologycommunity.nature.com/users/255172-yilin-wu/posts/48080-bacteria-self-organize-to-drive-flows)]**
+**[[PDF](https://arxiv.org/pdf/1904.00888.pdf)]**; NSFC News **[[Link](http://www.nsfc.gov.cn/csc/20340/20343/37797/index.html)]**; Nature Research Microbiology Community Blog **[[Link](https://naturemicrobiologycommunity.nature.com/users/255172-yilin-wu/posts/48080-bacteria-self-organize-to-drive-flows)]**
 
 ### [**[3] Active bulging promotes biofilm formation in a bacterial swarm**](https://www.biorxiv.org/content/10.1101/2022.08.25.500950v1.full.pdf)
 
 Siyu Liu, Ye Li, **Haoran Xu**, Daniel B. Kearns, Yilin Wu.<br>
-_bioXiv (2022)._<br>
-**[[PDF](https://www.biorxiv.org/content/10.1101/2022.08.25.500950v1.full.pdf)]**; **[[Link](https://www.biorxiv.org/content/10.1101/2022.08.25.500950v1)]**
+_bioXiv (2022)._<br> **[[PDF](https://www.biorxiv.org/content/10.1101/2022.08.25.500950v1.full.pdf)]**; 
 
-
-### [**[2] Self-organized canals enable long range directed material transport in bacterial communities**](https://www.biorxiv.org/content/10.1101/2022.05.19.492681v1.full.pdf)
+### [**[2] Self-organized canals enable long range directed material transport in bacterial communities**](https://elifesciences.org/articles/79780)
 
 Ye Li, Shiqi Liu, Yingdan Zhang, Zi Jing Seng, **Haoran Xu**, Liang Yang, Yilin Wu .<br>
-_Elife (2022)._ <br>
-**[[PDF]((https://www.biorxiv.org/content/10.1101/2022.05.19.492681v1.full.pdf))]**; **[[Link](https://elifesciences.org/articles/79780)]**
+_Elife (2022)._ <br> **[[PDF]((https://www.biorxiv.org/content/10.1101/2022.05.19.492681v1.full.pdf))]**; 
 
-### [**[1] Roadmap on emerging concepts in the physical biology of bacterial biofilms: from surface sensing to community formation**](https://iopscience.iop.org/article/10.1088/1478-3975/abdc0e/pdf)
+### [**[1] Roadmap on emerging concepts in the physical biology of bacterial biofilms: from surface sensing to community formation**](https://iopscience.iop.org/article/10.1088/1478-3975/abdc0e)
 
 Wong, Gerard CL, et al.<br>
-_Physical Biology (2021)._<br>
-**[[PDF](https://iopscience.iop.org/article/10.1088/1478-3975/abdc0e/pdf)]**; **[[Link](https://iopscience.iop.org/article/10.1088/1478-3975/abdc0e)]**
+_Physical Biology (2021)._<br> **[[PDF](https://iopscience.iop.org/article/10.1088/1478-3975/abdc0e/pdf)]**; 
 
 
 
 
 ---
 
-## Invited talks
+## Conferences and Presentations
 
-### **Seminar in Hong Kong University of Science and Technology** `2020.10`
+### **2024 Conference of Soft Matter and Biophysics, Shanxi, China** `Mar 2024`
+
+Large-scale pattern formation in active fluids<br>
+
+### **2024 APS March Meeting, Minneapolis, USA** `Mar 2024`
+
+Multiscale ordering and vortex pattern formation in living matter<br>
+
+### **Seminar, School of Science and Engineering, CUHK-Shenzhen, China** `Jan 2024`
+
+Emergent order in living active matter<br>
+
+### **Workshop on Soft Matter and Biophysics, Songshan Lake Materials Laboratory, China** `Jan 2024`
+
+Autonomous waves and global motion modes in living active solids<br>
+
+### **Seminar, Department of Physics, Zhejiang University, China** `Oct 2023`
+
+Self-organization of living active matter<br>
+
+### **StatPhys28 Satellite Meeting 2023, HKBU, Hong Kong** `Aug 2023`
+
+Active matter invasion and morphogenesis<br>
+
+### **International Workshop on Biophysics and Soft Matter, CityU, Hong Kong** `May 2023`
+
+Autonomous waves and global motion modes in living active solids<br>
+
+### **2023 APS March Meeting, Las Vegas, USA** `Mar 2023`
+
+Autonomous waves and global motion modes in living active solids<br>
+
+### **Seminar in Hong Kong University of Science and Technology** `Oct 2020`
 
 Collective Motion of Active Matter in Confinement<br>
 
-### **Physical Society of Hong Kong Conference** `2018.10`
+### **Physics Student Conference, Department of Physics, CUHK, Hong Kong** `Sept 2020`
 
-Self-organization of swimmers drives long-range fluid transport in bacterial colonies<br>
+Collective motion of active matter in confinements<br>
 
+### **Seminar, Department of Physics, CUHK, Hong Kong** `Jul 2020`
+
+Collective motion in bacterial colonies<br>
+
+### **2020 APS March Meeting, Denver, USA** `Mar 2020`
+
+Self-organization of motile rings and long-range transport in bacterial communities<br>
+
+### **2018 CPS Fall Meeting, Dalian, China** `Sept 2018`
+
+Self-organization of motile rings and long-range transport in bacterial communities<br>
+
+### **2018 Joint Annual Conference of Physical Societies, Macau** `Jul 2018`
+
+Self-organization of motile rings and long-range transport in bacterial communities<br>
+
+
+---
+
+## Posters
+
+### **2024 APS March Meeting, Minneapolis, USA** `Mar 2024`
+
+Active matter invasion and morphogenesis<br>
+
+### **New Perspectives in Active Systems, MPIPKS, Dresden, Germany** `Apr 2023`
+
+Geometrical control of interface patterning underlies active matter invasion<br>
+
+### **2016 APS March Meeting, Baltimore, USA** `Mar 2016`
+
+Collective motion in Proteus mirabilis swarms<br>
 
 
 ---
@@ -136,7 +198,6 @@ CN Yang Scholarship, CUHK `2020` <br>
 Global Young Scientists Summit, Singapore `2020` <br>
 The Shanghai Institute of Technical Physics, Exceptional Prize `2014` <br>
 Contemporary Undergraduate Mathematical Contest in Modelling, First prize `2013` <br>
-
 
 ---
 
