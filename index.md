@@ -2,8 +2,8 @@
 layout: cv
 title: Haoran Xu
 email:
-  url: mailto:xhrphx@hotmail.com
-  text: xhrphx@hotmail.com
+  url: mailto:xhrphx@link.cuhk.edu.hk
+  text: xhrphx@link.cuhk.edu.hk
 phone:
   39436394
 homepage:
@@ -25,7 +25,11 @@ Supported arguments:
 
 
 
-## Education
+## Education and academic appointments
+
+### **The Chinese University of Hong Kong** `2021 – present`
+
+- Postdoctoral Fellow
 
 #### **The Chinese University of Hong Kong** `2015 – 2020`
 
@@ -46,62 +50,41 @@ Anhui, China
 
 ---
 
-## Employment
+## Research interests
 
-### **The Chinese University of Hong Kong** `2020 – now`
+Biophysics; Soft matter physics; Living active matter; Microbiology
 
-- Postdoctoral Fellow
+**Experimental Aspects**
+– Self-organization and pattern formation in living active matter
+– Autonomous motion in living active solids and active nematics
+– Mechanical/chemical signaling and synchronization in living systems
 
-
-
-
----
-
-## Research interest
-
-Self-organization in bacterial dense suspension; Collective behaviors of living active matter in viscoelastic fluid and solid; Bacterial motility in complex confinements; Pattern formation in living systems; Agent-based and continuum modeling (PDE).
-
-
-
-
----
-
-## Research and Professional Experience:
-
-Group of Synthetic Biology and Quantitative Biology, Hefei National Laboratory for Physical Sciences at Microscale, University of Science and Technology of China `2014 – 2015`
-- Student
-- Advisor: Fan Jin
-
-Department of Physics, The Chinese University of Hong Kong `2015 – 2020`. 
-- Graduate Research Assistant
-- Advisor: Yilin Wu
-
-Department of Physics, The Chinese University of Hong Kong `2020 – 2022`. 
-- Postdoc Fellow
-- Advisor: Yilin Wu
-
+**Numerical Simulations**
+– Fluid dynamics with partial differential equations 
+– Active matter motion with Langevin equations
 
 
 ---
 
 ## Publications
 
-### **[1] Self-enhanced mobility drives multiscale ordering and pattern formation in living matter**
+### [**[7] Self-enhanced mobility drives multiscale ordering and pattern formation in living matter**](https://arxiv.org/pdf/2208.12424.pdf)
 
 **Haoran Xu**, Yilin Wu.<br>
-_Under review in Nature (2023)._ <br>
-
-### [**[2] Autonomous waves and global motion modes in elastic active solids**](https://arxiv.org/pdf/2208.09664.pdf)
-
-**Haoran Xu**, Yulu Huang, Rui Zhang, Yilin Wu .<br>
-_Nature Physics (2022)._ <br>
+_Nature (2024)._ <br>
 **[[PDF](https://arxiv.org/pdf/2208.09664.pdf)]**; **[[Link](https://arxiv.org/abs/2208.09664)]**
 
-### [**[3] Geometrical control of interface patterning underlies active matter invasion**](https://arxiv.org/pdf/2208.12424.pdf)
+### [**[6] Geometrical control of interface patterning underlies active matter invasion**](https://arxiv.org/pdf/2208.12424.pdf)
 
 **Haoran Xu**, Mehrana R Nejad, Julia Mary Yeomans, Yilin Wu.<br>
-_Revise and resubmit in PNAS; arXiv (2022)._ <br>
+_PNAS._ <br>
 **[[PDF](https://arxiv.org/pdf/2208.12424.pdf)]**; **[[Link](https://arxiv.org/abs/2208.12424)]**
+
+### [**[5] Autonomous waves and global motion modes in elastic active solids**](https://arxiv.org/pdf/2208.09664.pdf)
+
+**Haoran Xu**, Yulu Huang, Rui Zhang, Yilin Wu .<br>
+_Nature Physics (2023)._ <br>
+**[[PDF](https://arxiv.org/pdf/2208.09664.pdf)]**; **[[Link](https://arxiv.org/abs/2208.09664)]**
 
 ### [**[4] Self-organization of swimmers drives long-range fluid transport in bacterial colonies**](https://arxiv.org/pdf/1904.00888.pdf)
 
@@ -109,20 +92,20 @@ _Revise and resubmit in PNAS; arXiv (2022)._ <br>
 _Nature Communications._<br>
 **[[PDF](https://arxiv.org/pdf/1904.00888.pdf)]**; **[[Link](https://arxiv.org/abs/1904.00888)]**; NSFC News **[[Link](http://www.nsfc.gov.cn/csc/20340/20343/37797/index.html)]**; Nature Research Microbiology Community Blog **[[Link](https://naturemicrobiologycommunity.nature.com/users/255172-yilin-wu/posts/48080-bacteria-self-organize-to-drive-flows)]**
 
-### [**[5] Active bulging promotes biofilm formation in a bacterial swarm**](https://www.biorxiv.org/content/10.1101/2022.08.25.500950v1.full.pdf)
+### [**[3] Active bulging promotes biofilm formation in a bacterial swarm**](https://www.biorxiv.org/content/10.1101/2022.08.25.500950v1.full.pdf)
 
 Siyu Liu, Ye Li, **Haoran Xu**, Daniel B. Kearns, Yilin Wu.<br>
 _bioXiv (2022)._<br>
 **[[PDF](https://www.biorxiv.org/content/10.1101/2022.08.25.500950v1.full.pdf)]**; **[[Link](https://www.biorxiv.org/content/10.1101/2022.08.25.500950v1)]**
 
 
-### [**[6] Self-organized canals enable long range directed material transport in bacterial communities**](https://www.biorxiv.org/content/10.1101/2022.05.19.492681v1.full.pdf)
+### [**[2] Self-organized canals enable long range directed material transport in bacterial communities**](https://www.biorxiv.org/content/10.1101/2022.05.19.492681v1.full.pdf)
 
 Ye Li, Shiqi Liu, Yingdan Zhang, Zi Jing Seng, **Haoran Xu**, Liang Yang, Yilin Wu .<br>
 _Elife (2022)._ <br>
 **[[PDF]((https://www.biorxiv.org/content/10.1101/2022.05.19.492681v1.full.pdf))]**; **[[Link](https://elifesciences.org/articles/79780)]**
 
-### [**[7] Roadmap on emerging concepts in the physical biology of bacterial biofilms: from surface sensing to community formation**](https://iopscience.iop.org/article/10.1088/1478-3975/abdc0e/pdf)
+### [**[1] Roadmap on emerging concepts in the physical biology of bacterial biofilms: from surface sensing to community formation**](https://iopscience.iop.org/article/10.1088/1478-3975/abdc0e/pdf)
 
 Wong, Gerard CL, et al.<br>
 _Physical Biology (2021)._<br>
@@ -147,20 +130,21 @@ Self-organization of swimmers drives long-range fluid transport in bacterial col
 
 ---
 
-## Honors & Awards
+## Honors and Awards
 
-CN Yang Scholarship `CUHK, 2020` <br>
-Global Young Scientists Summit Singapore `National Research Foundation Singapore, 2020` <br>
-First prize in Contemporary Undergraduate Mathematical Contest in Modeling `China Society for Industrial and Applied Mathematics, 2013` <br>
-
+CN Yang Scholarship, CUHK `2020` <br>
+Global Young Scientists Summit, Singapore `2020` <br>
+The Shanghai Institute of Technical Physics, Exceptional Prize `2014` <br>
+Contemporary Undergraduate Mathematical Contest in Modelling, First prize `2013` <br>
 
 
 ---
 
-## Teaching
-
-Teaching Assistant, Physics Laboratory II `CUHK, 2017 – 2019` <br>
-Teaching Assistant, Physics Laboratory I `CUHK, 2015 – 2017` <br>
+## Mentoring
+Student Mentor, Youhan Xu (Graduate, CUHK) `2023 – present` <br>
+Student Mentor, Zheyi Wang (Graduate, CUHK) `2022 – present` <br>
+Physics Laboratory II (Teaching Assistant) `2017 – 2019` <br>
+Physics Laboratory I (Teaching Assistant) `2015 – 2017` <br>
 
 <!-- ### Footer
 
