@@ -79,7 +79,7 @@ Anhui, China
 ### [**[7] Self-enhanced mobility enables vortex pattern formation in living matter**](https://www.nature.com/articles/s41586-024-07114-8)
 
 **Haoran Xu**, Yilin Wu.<br>
-_Nature (2024)._ **[[PDF](https://arxiv.org/abs/2403.09068)]**;<br> 
+_Nature (2024)._ **[[PDF](https://arxiv.org/pdf/2403.09068.pdf)]**;<br> 
 
 ### [**[6] Geometrical control of interface patterning underlies active matter invasion**](https://www.pnas.org/doi/full/10.1073/pnas.2219708120)
 
