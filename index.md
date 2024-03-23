@@ -56,7 +56,6 @@ Anhui, China
 ## Research interests
 
 **Biophysics; Soft matter physics; Living active matter; Microbiology**<br> 
----
 
 **Experimental Aspects**
 
@@ -65,7 +64,7 @@ Anhui, China
 – Autonomous motion in living active solids and active nematics
 
 – Mechanical/chemical signaling and synchronization in living systems
----
+<br>
 **Numerical Simulations**
 
 – Fluid dynamics with partial differential equations 
