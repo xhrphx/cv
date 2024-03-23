@@ -56,6 +56,7 @@ Anhui, China
 ## Research interests
 
 **Biophysics; Soft matter physics; Living active matter; Microbiology**<br> 
+---
 
 **Experimental Aspects**
 
@@ -64,7 +65,7 @@ Anhui, China
 – Autonomous motion in living active solids and active nematics
 
 – Mechanical/chemical signaling and synchronization in living systems
-<br>
+---
 **Numerical Simulations**
 
 – Fluid dynamics with partial differential equations 
@@ -104,8 +105,8 @@ _bioXiv (2022)._ **[[PDF](https://www.biorxiv.org/content/10.1101/2022.08.25.500
 
 ### [**[2] Self-organized canals enable long range directed material transport in bacterial communities**](https://elifesciences.org/articles/79780)
 
-Ye Li, Shiqi Liu, Yingdan Zhang, Zi Jing Seng, **Haoran Xu**, Liang Yang, Yilin Wu .<br>
-_Elife (2022)._  **[[PDF]((https://www.biorxiv.org/content/10.1101/2022.05.19.492681v1.full.pdf))]**; <br>
+Ye Li, Shiqi Liu, Yingdan Zhang, Zi Jing Seng, **Haoran Xu**, Liang Yang, Yilin Wu.<br>
+_Elife (2022)._  **[[PDF]((https://www.biorxiv.org/content/10.1101/2022.05.19.492681v1.full.pdf))]**;<br>
 
 ### [**[1] Roadmap on emerging concepts in the physical biology of bacterial biofilms: from surface sensing to community formation**](https://iopscience.iop.org/article/10.1088/1478-3975/abdc0e)
 
